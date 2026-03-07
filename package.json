@@ -13,6 +13,9 @@
     "react": "^19.2.3",
     "react-dom": "^19.2.3"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20.19.37",
